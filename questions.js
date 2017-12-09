@@ -54,7 +54,7 @@ questions = [
         }
     },
     {
-        "question": "Jeder nach seinen Fähigkeiten, jedem nach seiner Leistung",
+        "question": "Jeder nach seinen Fähigkeiten, jedem nach seiner Bedürfnissen",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -117,7 +117,7 @@ questions = [
         }
     },
     {
-        "question": "Die Bevölkerung hat ein Recht auf qualitativ hochwertige",
+        "question": "Die Bevölkerung hat ein Recht auf qualitativ hochwertige Bildung",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -198,7 +198,7 @@ questions = [
         }
     },
     {
-        "question": "Ausgaben für Militär ist Geldverschwendung.",
+        "question": "Ausgaben für Militär sind Geldverschwendung.",
         "effect": {
             "econ": 0,
             "dipl": 10,
