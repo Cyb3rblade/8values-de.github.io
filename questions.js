@@ -54,7 +54,7 @@ questions = [
         }
     },
     {
-        "question": "Jeder nach seinen Fähigkeiten, jedem nach seiner Bedürfnissen",
+        "question": "Jeder nach seinen Fähigkeiten, jedem nach seinen Bedürfnissen",
         "effect": {
             "econ": 10,
             "dipl": 0,
